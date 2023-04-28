@@ -63,4 +63,4 @@ The best data structure for the orderbook would be a priority queue or a heap, b
 
 ## Conclusion
 
-I hope you find the solutions demonstrate my coding capabilities. I'd never used Solidity before so it was quite fun to try it out. I know that there might be some mistakes with very edge cases in logger and the orderbook because my knowledge and experience of asyncio before this was not great, but I tried my best. I also wanted to attempt all the tasks (last 2 of task 2 and last 1 of task 3) But I had so many exams and submissions this week, I tried my best to give this task as much time as possible. Thank yoU!
+I hope you find the solutions demonstrate my coding capabilities. I'd never used Solidity before so it was quite fun to try it out. I know that there might be some mistakes with very edge cases in logger and the orderbook because my knowledge and experience of asyncio before this was not great, but I tried my best. I also wanted to attempt all the tasks (last 2 of task 2 and last 1 of task 3) But I had so many exams and submissions this week, I tried my best to give this task as much time as possible. Thank you!
