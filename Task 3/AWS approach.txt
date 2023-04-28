@@ -1,0 +1,15 @@
+Here are the steps I would take to identify the AWS instance that has the lowest latency with the server where the exchange's matching engine resides:
+
+1. Determine the physical location of the exchange's matching engine.
+
+2. Identify the AWS regions or availability zones closest to the exchange's matching engine.
+
+3. Deploy an identical AWS instance in each of the identified regions or availability zones.
+
+4. Measure the latency between each AWS instance and the exchange's matching engine using network monitoring tools.
+
+5. Analyze the results and select the AWS instance with the lowest latency.
+
+6. Use the selected AWS instance to deploy the order book stream for the best possible connection to the exchange's matching engine.
+
+By following these steps, I can ensure that I identify the AWS instance with the lowest latency and deploy my order book stream with the best possible connection to the exchange's matching engine.
