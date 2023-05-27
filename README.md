@@ -1,4 +1,4 @@
-Sure, here's a template for a README file on GitHub that you can use for your interview assignment:
+This is a series of tasks I completed within a few days as part of an interview process for a(n unnamed) Crypto fund
 
 # Crypto / Misc Coding tasks
 
